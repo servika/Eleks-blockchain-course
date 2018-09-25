@@ -1,0 +1,18 @@
+{
+  "name": "eleks-blockchain-course",
+  "version": "1.0.0",
+  "description": "Sample codes for blockchain course",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/servika/Eleks-blockchain-course.git"
+  },
+  "author": "Serg Bataev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/servika/Eleks-blockchain-course/issues"
+  },
+  "homepage": "https://github.com/servika/Eleks-blockchain-course#readme"
+}
